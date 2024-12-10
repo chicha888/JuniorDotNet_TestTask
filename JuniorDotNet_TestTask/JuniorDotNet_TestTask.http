@@ -1,0 +1,6 @@
+@JuniorDotNet_TestTask_HostAddress = http://localhost:5228
+
+GET {{JuniorDotNet_TestTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
