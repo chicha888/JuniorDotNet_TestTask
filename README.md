@@ -9,7 +9,7 @@ The project demonstrates:
 ## Deployed Application
 The application is published and can be accessed at:
 
-[**Published Web API on Azure**](equipmentcontractapi.azurewebsites.net)
+[**Published Web API on Azure**](https://equipmentcontractapi.azurewebsites.net)
 
 ## Database Connection String
 To connect to the Azure SQL Database, use the following connection string:
